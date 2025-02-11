@@ -1,7 +1,4 @@
-## Olá, eu sou a Dayane 👋
-
-
-- 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistema.
+## Olá, mundo! Eu sou a Dayane Teodoro 👩‍💻🪐
 
 - 😄 Pronome: ela/dela
 
