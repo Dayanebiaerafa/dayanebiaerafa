@@ -63,7 +63,7 @@ Sou apaixonada por tecnologia e estou me aprimorando em projetos práticos para 
 
 ---
 
-## 📲 **Estou sempre aberta a novas oportunidades, aprendizado e colaborações. Se quiser trocar ideias ou trabalhar juntos, entre em contato comigo!**🚀 
+## 📲 Estou sempre aberta a novas oportunidades, aprendizado e colaborações. Se quiser trocar ideias ou trabalhar juntos, entre em contato comigo!🚀 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayaneteodoro/)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dayanebiaerafa)   [![E-mail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:dayaneteodorob@outlook.com)    [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayane_cie/)  
 
