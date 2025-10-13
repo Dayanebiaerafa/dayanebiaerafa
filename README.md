@@ -1,74 +1,92 @@
-# 👋 Olá, eu sou a Dayane Teodoro!
+# 👋 Olá, eu sou a Dayane Teodoro  
 
-- 😄 Pronome: ela/dela
-
-Sou apaixonada por tecnologia e estou me aprimorando em projetos práticos para desenvolver minhas habilidades em análise de dados e programação. Busco desafios que me permitam crescer e aplicar meus conhecimentos de forma estratégica. Com dedicação e aprendizado contínuo, estou construindo minha jornada para me tornar uma profissional qualificada e pronta para contribuir com inovação e eficiência. 🚀 
-
----
-
-## 🎓 Formação Acadêmica:  
-
-📚 **Análise e Desenvolvimento de Sistemas**  
+🎯 **Analista de Dados | Machine Learning | Power BI | Python | Azure ML | SQL |**  
+💡 Transformo dados em decisões estratégicas por meio de análises, predições e dashboards inteligentes.
 
 ---
 
-## 🚀 Minha Linha de Estudo  
+## 🚀 Sobre mim  
 
-📊 **Análise de Dados**  
-🐍 **Programação com Python para Data Science**  
-🗄️ **SQL para Manipulação e Consulta de Dados**  
-☁️ **Computação em Nuvem com AWS (Glue, S3, Athena)**  
-📊 **Dashboards e Visualização de Dados (Salesforce CRM, Power BI, Tableau)**  
-🌐 **Desenvolvimento Web para Aplicações de Dados**  
+Sou uma **Analista de Dados híbrida**, unindo **Análise de Dados e Machine Learning** para gerar insights e soluções inteligentes.  
+Formada em **Análise e Desenvolvimento de Sistemas**, desenvolvo projetos que vão desde a coleta e tratamento de dados até a **criação de modelos preditivos e dashboards analíticos**.  
 
----
+Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**, aplicando técnicas de **regressão, engenharia de atributos e storytelling com dados** para resolver problemas reais de negócio.  
 
-## 🎯 Skills: 
-
-### **Linguagens:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)    ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)     
-
-### **Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)    
-
-
-### **Computação em Nuvem**  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)    ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)    ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)   
- 
-### **Ferramentas & Tecnologias:**  
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)    ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)    ![CRM](https://img.shields.io/badge/CRM-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)   
- 
-### **BI & Visualização de Dados:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)   
-
-### **IDEs & Editores:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)    ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)    ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)     
-
-### **Design:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+📍 Uberlândia - MG  
+📧 [dayaneteodorob@outlook.com](mailto:dayaneteodorob@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dayaneteodoro/)  
 
 ---
 
-## 📚 *Cursos*:  
+## 🧠 Principais Competências  
 
-- **Formação em Análise de Dados**  
-- **Desenvolvimento de Dashboards com Power BI**   
-- **Machine Learning com Python** 
-- **Excel PROCV: Lógica Booleana e busca por valores**
-- **Python para DATA SCIENCE: Funções, Pacotes E Pandas**
-- **Consultas SQL: Avançando no SQL com MYSQL**
-- **Engenharia de Analytics: implementando um pipeline ETL com AWS Glue**
-- **Django REST Framework: construindo APIs RESTful do Zero**
-
-
----
-
-## 📲 Estou sempre aberta a novas oportunidades, aprendizado e colaborações. Se quiser trocar ideias ou trabalhar juntos, entre em contato comigo!🚀 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayaneteodoro/)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dayanebiaerafa)   [![E-mail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:dayaneteodorob@outlook.com)    [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayane_cie/)  
+| Área | Tecnologias |
+|------|--------------|
+| **Linguagens** | Python, SQL, JavaScript |
+| **Machine Learning** | Scikit-Learn, Pandas, NumPy, Matplotlib |
+| **Business Intelligence** | Power BI, DAX, Storytelling com Dados |
+| **Nuvem & ETL** | Azure ML, AWS Glue, S3, Athena |
+| **Aplicações Interativas** | Streamlit, Regex (PNL), GitHub |
+| **Banco de Dados** | MySQL, PostgreSQL, SQL Server |
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayanebiaerafa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## 🧩 Projetos em Destaque  
 
--->
+### 🐣 [Previsão de Peso de Pintinhos – Avecon (Extensão Acadêmica)](https://github.com/Dayanebiaerafa/projeto-avecon)
+📊 Modelo de **Regressão Linear Múltipla** para prever o peso médio de pintinhos aos 42 dias.  
+🔹 Aplicação de **OneHotEncoding**, **pipeline de ML**, **avaliação com MSE** e **visualização interativa por linhagem e estação**.  
+🚜 Resultado: otimização do manejo e melhoria no planejamento estratégico em granjas.
+
+---
+
+### 📈 [Santander Bootcamp Power BI – Projeto de Análise de Dados](https://github.com/Dayanebiaerafa/Santander_Bootcamp_PowerBI_Projeto)
+📊 Criação de **dashboards estratégicos no Power BI** com KPIs de vendas, lucro, margens e análises geográficas.  
+🔹 Ferramentas: Power BI, DAX, Filtros Interativos, Mapas e Bookmarks.  
+💬 Resultado: geração de insights acionáveis sobre **segmentos, produtos e rentabilidade**, aprimorando a tomada de decisão.
+
+---
+
+### 🤖 [Chatbot Analítico – Python + Streamlit](https://github.com/Dayanebiaerafa/chatbot-analise-vendas)
+💬 Chatbot desenvolvido em **Python e Streamlit**, interpretando perguntas em **linguagem natural (Regex)** sobre dados de vendas.  
+🔹 Responde a perguntas como: “Qual o mês que mais vendeu?” ou “Qual produto teve mais lucro?”.  
+🚀 Resultado: automação de relatórios e interface intuitiva para consultas analíticas.
+
+---
+
+## 📚 Formação & Certificações  
+
+🎓 **Análise e Desenvolvimento de Sistemas** – Estácio (2024)  
+📘 **Santander Bootcamp Ciência de Dados com Python – DIO (2025)**  
+📘 **Machine Learning com Python – Alura (2023)**  
+📘 **Engenharia de Analytics com AWS Glue – Alura (2025)**  
+📘 **Power BI: ETL e Storytelling com Dados – Alura (2023)**  
+📘 **Desenvolvimento em Git e GitHub – DIO (2024)**  
+
+---
+
+## ⚙️ Tecnologias e Ferramentas  
+
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?logo=microsoftazure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![Dayane GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayanebiaerafa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanebiaerafa&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## 💬 Vamos conversar?  
+Estou sempre aberta a **colaborações, desafios e oportunidades** para aplicar análise e machine learning em contextos reais.  
+
+📩 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/dayaneteodoro/)  
+> “Transformo dados em decisões inteligentes que geram impacto real.”
