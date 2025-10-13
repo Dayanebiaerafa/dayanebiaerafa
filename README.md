@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou a Dayane Teodoro  
+# Olá, eu sou a Dayane Teodoro  
 
 🎯 **Analista de Dados | Machine Learning | Power BI | Python | Azure ML | SQL |**  
 💡 Transformo dados em decisões estratégicas por meio de análises, predições e dashboards inteligentes.
 
 ---
 
-## 🚀 Sobre mim  
+## Sobre mim  
 
 Sou uma **Analista de Dados híbrida**, unindo **Análise de Dados e Machine Learning** para gerar insights e soluções inteligentes.  
 Formada em **Análise e Desenvolvimento de Sistemas**, desenvolvo projetos que vão desde a coleta e tratamento de dados até a **criação de modelos preditivos e dashboards analíticos**.  
@@ -18,7 +18,7 @@ Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**,
 
 ---
 
-## 🧠 Principais Competências  
+## Principais Competências  
 
 | Área | Tecnologias |
 |------|--------------|
@@ -31,30 +31,30 @@ Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**,
 
 ---
 
-## 🧩 Projetos em Destaque  
+## Projetos em Destaque  
 
-### 🐣 [Previsão de Peso de Pintinhos – Avecon (Extensão Acadêmica)](https://github.com/Dayanebiaerafa/projeto-avecon)
+### [Previsão de Peso de Pintinhos – Avecon (Extensão Acadêmica)](https://github.com/Dayanebiaerafa/projeto-avecon)
 📊 Modelo de **Regressão Linear Múltipla** para prever o peso médio de pintinhos aos 42 dias.  
 🔹 Aplicação de **OneHotEncoding**, **pipeline de ML**, **avaliação com MSE** e **visualização interativa por linhagem e estação**.  
 🚜 Resultado: otimização do manejo e melhoria no planejamento estratégico em granjas.
 
 ---
 
-### 📈 [Santander Bootcamp Power BI – Projeto de Análise de Dados](https://github.com/Dayanebiaerafa/Santander_Bootcamp_PowerBI_Projeto)
+### [Santander Bootcamp Power BI – Projeto de Análise de Dados](https://github.com/Dayanebiaerafa/Santander_Bootcamp_PowerBI_Projeto)
 📊 Criação de **dashboards estratégicos no Power BI** com KPIs de vendas, lucro, margens e análises geográficas.  
 🔹 Ferramentas: Power BI, DAX, Filtros Interativos, Mapas e Bookmarks.  
 💬 Resultado: geração de insights acionáveis sobre **segmentos, produtos e rentabilidade**, aprimorando a tomada de decisão.
 
 ---
 
-### 🤖 [Chatbot Analítico – Python + Streamlit](https://github.com/Dayanebiaerafa/chatbot-analise-vendas)
+### [Chatbot Analítico – Python + Streamlit](https://github.com/Dayanebiaerafa/chatbot-analise-vendas)
 💬 Chatbot desenvolvido em **Python e Streamlit**, interpretando perguntas em **linguagem natural (Regex)** sobre dados de vendas.  
 🔹 Responde a perguntas como: “Qual o mês que mais vendeu?” ou “Qual produto teve mais lucro?”.  
 🚀 Resultado: automação de relatórios e interface intuitiva para consultas analíticas.
 
 ---
 
-## 📚 Formação & Certificações  
+## Formação & Certificações  
 
 🎓 **Análise e Desenvolvimento de Sistemas** – Estácio (2024)  
 📘 **Santander Bootcamp Ciência de Dados com Python – DIO (2025)**  
@@ -65,7 +65,7 @@ Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**,
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas  
+## Tecnologias e Ferramentas  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
@@ -78,7 +78,7 @@ Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**,
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## Estatísticas do GitHub  
 
 ![Dayane GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayanebiaerafa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanebiaerafa&layout=compact&theme=transparent&hide_border=true)
