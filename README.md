@@ -1,37 +1,34 @@
-# Olá, eu sou a Dayane Teodoro  
+# Olá, eu sou a Dayane Teodoro 👋
 
-🎯 **Analista de Dados | Machine Learning | Power BI | Python | Azure ML | SQL |**  
-💡 Transformo dados em decisões estratégicas por meio de análises, predições e dashboards inteligentes.
+🎯 **Desenvolvedora Python Backend Júnior | IA Generativa & RAG | Automação de Processos**
 
----
+Construo APIs REST, integrações via webhooks e aplicações com LLMs, principalmente **RAG**: respostas baseadas em documentos reais, com citação de fonte. Graduada em Análise e Desenvolvimento de Sistemas.
 
-## Sobre mim  
-
-Sou uma **Analista de Dados híbrida**, unindo **Análise de Dados e Machine Learning** para gerar insights e soluções inteligentes.  
-Formada em **Análise e Desenvolvimento de Sistemas**, desenvolvo projetos que vão desde a coleta e tratamento de dados até a **criação de modelos preditivos e dashboards analíticos**.  
-
-Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**, aplicando técnicas de **regressão, engenharia de atributos e storytelling com dados** para resolver problemas reais de negócio.  
-
-📍 Uberlândia - MG  
-📧 [dayaneteodorob@outlook.com](mailto:dayaneteodorob@outlook.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dayaneteodoro/)  
+📍 Uberlândia - MG · 🔗 [LinkedIn](https://www.linkedin.com/in/dayaneteodoro/) · 📧 dayaneteodorob@outlook.com
 
 ---
 
-## Principais Competências  
+## Projetos em destaque
 
-| Área | Tecnologias |
-|------|--------------|
-| **Linguagens** | Python, SQL, JavaScript |
-| **Machine Learning** | Scikit-Learn, Pandas, NumPy, Matplotlib |
-| **Business Intelligence** | Power BI, DAX, Storytelling com Dados |
-| **Nuvem & ETL** | Azure ML, AWS Glue, S3, Athena |
-| **Aplicações Interativas** | Streamlit, Regex (PNL), GitHub |
-| **Banco de Dados** | MySQL, PostgreSQL, SQL Server |
+### 📘 [Tutor de Inglês com RAG](https://github.com/Dayanebiaerafa/english-tutor-rag)
+Chat que responde dúvidas e gera exercícios a partir de livros didáticos **escaneados**, citando livro e página. Pipeline própria: PyMuPDF + modelo de visão (Gemini) para transcrição, chunking com overlap e metadados, embeddings, FAISS, re-rank e Streamlit. Lida com a cota gratuita da API (lotes, cache e troca automática de modelo).
+`Python` `LangChain` `FAISS` `Gemini` `PyMuPDF` `Streamlit`
 
----
+### 🧁 [Confeitaria Full Stack & Automação](https://github.com/Dayanebiaerafa/confeitaria-ecommerce-mercadopago)
+Backend em Flask + PostgreSQL com arquitetura orientada a eventos: do checkout (Mercado Pago) ao envio assíncrono de mensagens (WhatsApp Cloud API). Inclui agente de atendimento com RAG e Gemini API.
+`Python` `Flask` `PostgreSQL` `Webhooks` `Postman`
 
-## Projetos em Destaque  
+### 🤖 [Chat com PDFs no Azure (RAG)](https://github.com/Dayanebiaerafa/azure-ai-rag-chat-pdf)
+Assistente com GPT-4o e RAG para responder a partir de PDFs: API em FastAPI, busca vetorial no Azure Cognitive Search e histórico no CosmosDB.
+`FastAPI` `GPT-4o` `Azure` `RAG`
+
+### 📈 [AzureML Marketing Predictor](https://github.com/Dayanebiaerafa/AzureML-Marketing-Predictor)
+Regressão linear para prever ROI de campanhas, com MLflow, deploy como endpoint REST no Azure ML e interface em Streamlit.
+`scikit-learn` `MLflow` `Azure ML` `Streamlit`
+
+### 💬 [Chatbot de Análise de Vendas](https://github.com/Dayanebiaerafa/chatbot-analise-vendas)
+Chatbot em Python que interpreta perguntas em linguagem natural (Regex) sobre dados de vendas, com interface em Streamlit.
+`Python` `Pandas` `Streamlit`
 
 ### [Previsão de Peso de Pintinhos – Avecon (Extensão Acadêmica)](https://github.com/Dayanebiaerafa/projeto-avecon)
 📊 Modelo de **Regressão Linear Múltipla** para prever o peso médio de pintinhos aos 42 dias.  
@@ -40,41 +37,15 @@ Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**,
 
 ---
 
-### [Santander Bootcamp Power BI – Projeto de Análise de Dados](https://github.com/Dayanebiaerafa/Santander_Bootcamp_PowerBI_Projeto)
-📊 Criação de **dashboards estratégicos no Power BI** com KPIs de vendas, lucro, margens e análises geográficas.  
-🔹 Ferramentas: Power BI, DAX, Filtros Interativos, Mapas e Bookmarks.  
-💬 Resultado: geração de insights acionáveis sobre **segmentos, produtos e rentabilidade**, aprimorando a tomada de decisão.
+## Tecnologias
 
----
-
-### [Chatbot Analítico – Python + Streamlit](https://github.com/Dayanebiaerafa/chatbot-analise-vendas)
-💬 Chatbot desenvolvido em **Python e Streamlit**, interpretando perguntas em **linguagem natural (Regex)** sobre dados de vendas.  
-🔹 Responde a perguntas como: “Qual o mês que mais vendeu?” ou “Qual produto teve mais lucro?”.  
-🚀 Resultado: automação de relatórios e interface intuitiva para consultas analíticas.
-
----
-
-## Formação & Certificações  
-
-🎓 **Análise e Desenvolvimento de Sistemas** – Estácio (2024)  
-📘 **Santander Bootcamp Ciência de Dados com Python – DIO (2025)**  
-📘 **Machine Learning com Python – Alura (2023)**  
-📘 **Engenharia de Analytics com AWS Glue – Alura (2025)**  
-📘 **Power BI: ETL e Storytelling com Dados – Alura (2023)**  
-📘 **Desenvolvimento em Git e GitHub – DIO (2024)**  
-
----
-
-## Tecnologias e Ferramentas  
-
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?logo=microsoftazure&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+| Área | Tecnologias |
+|---|---|
+| **Backend & APIs** | Python, Flask, FastAPI, APIs REST, Webhooks, Postman |
+| **IA Generativa** | RAG, LangChain, FAISS, embeddings, Gemini API, GPT-4o, Streamlit |
+| **Bancos de dados** | PostgreSQL, MySQL, SQL Server, CosmosDB |
+| **Cloud & ferramentas** | Azure ML, Render, Docker, n8n, Git/GitHub |
+| **Dados & BI** | Pandas, scikit-learn, MLflow, Power BI (DAX) |
 
 ---
 
@@ -85,8 +56,8 @@ Tenho experiência prática com **Python, Power BI, SQL, Streamlit e Azure ML**,
 
 ---
 
-## 💬 Vamos conversar?  
-Estou sempre aberta a **colaborações, desafios e oportunidades** para aplicar análise e machine learning em contextos reais.  
+## Vamos conversar?
 
-📩 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/dayaneteodoro/)  
-> “Transformo dados em decisões inteligentes que geram impacto real.”
+Aberta a oportunidades como **Desenvolvedora Python / Backend Júnior** e em **IA e automação**.
+
+📩 [LinkedIn](https://www.linkedin.com/in/dayaneteodoro/)
