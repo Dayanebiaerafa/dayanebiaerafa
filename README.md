@@ -11,29 +11,28 @@ Construo APIs REST, integrações via webhooks e aplicações com LLMs, principa
 ## Projetos em destaque
 
 ### 📘 [Tutor de Inglês com RAG](https://github.com/Dayanebiaerafa/english-tutor-rag)
-Chat que responde dúvidas e gera exercícios a partir de livros didáticos **escaneados**, citando livro e página. Pipeline própria: PyMuPDF + modelo de visão (Gemini) para transcrição, chunking com overlap e metadados, embeddings, FAISS, re-rank e Streamlit. Lida com a cota gratuita da API (lotes, cache e troca automática de modelo).
+Chat que responde dúvidas e gera exercícios a partir de livros didáticos **escaneados**, citando livro e página. PyMuPDF + modelo de visão (Gemini) para transcrição, chunking com overlap e metadados, embeddings, FAISS, re-rank e Streamlit. Lida com a cota gratuita da API (lotes, cache e troca automática de modelo).
 `Python` `LangChain` `FAISS` `Gemini` `PyMuPDF` `Streamlit`
 
-### 🧁 [Confeitaria Full Stack & Automação](https://github.com/Dayanebiaerafa/confeitaria-ecommerce-mercadopago)
-Backend em Flask + PostgreSQL com arquitetura orientada a eventos: do checkout (Mercado Pago) ao envio assíncrono de mensagens (WhatsApp Cloud API). Inclui agente de atendimento com RAG e Gemini API.
-`Python` `Flask` `PostgreSQL` `Webhooks` `Postman`
+### 🍰 [Confeitaria Full Stack & Automação](https://github.com/Dayanebiaerafa/confeitaria-ecommerce-mercadopago) · [site em produção](https://www.confeitariadayaneteodoro.com.br/)
+Backend em Flask + PostgreSQL com arquitetura orientada a eventos: do checkout (Mercado Pago) à planilha de produção, agenda e mensagens no WhatsApp. Inclui workflow n8n (Docker) para idempotência e agente de atendimento com RAG e Gemini API.
+`Python` `Flask` `PostgreSQL` `Webhooks` `n8n` `Docker`
 
 ### 🤖 [Chat com PDFs no Azure (RAG)](https://github.com/Dayanebiaerafa/azure-ai-rag-chat-pdf)
 Assistente com GPT-4o e RAG para responder a partir de PDFs: API em FastAPI, busca vetorial no Azure Cognitive Search e histórico no CosmosDB.
 `FastAPI` `GPT-4o` `Azure` `RAG`
 
 ### 📈 [AzureML Marketing Predictor](https://github.com/Dayanebiaerafa/AzureML-Marketing-Predictor)
-Regressão linear para prever ROI de campanhas, com MLflow, deploy como endpoint REST no Azure ML e interface em Streamlit.
+Regressão linear para prever receita de campanhas, com MLflow, deploy como endpoint REST no Azure ML e interface em Streamlit.
 `scikit-learn` `MLflow` `Azure ML` `Streamlit`
 
 ### 💬 [Chatbot de Análise de Vendas](https://github.com/Dayanebiaerafa/chatbot-analise-vendas)
 Chatbot em Python que interpreta perguntas em linguagem natural (Regex) sobre dados de vendas, com interface em Streamlit.
 `Python` `Pandas` `Streamlit`
 
-### [Previsão de Peso de Pintinhos – Avecon (Extensão Acadêmica)](https://github.com/Dayanebiaerafa/projeto-avecon)
-📊 Modelo de **Regressão Linear Múltipla** para prever o peso médio de pintinhos aos 42 dias.  
-🔹 Aplicação de **OneHotEncoding**, **pipeline de ML**, **avaliação com MSE** e **visualização interativa por linhagem e estação**.  
-🚜 Resultado: otimização do manejo e melhoria no planejamento estratégico em granjas.
+### 📊 [Previsão de Peso de Pintinhos: Avecon (extensão acadêmica)](https://github.com/Dayanebiaerafa/projeto-avecon)
+Regressão Linear Múltipla com OneHotEncoding, pipeline de ML, avaliação por MSE e visualizações por linhagem e estação.
+`scikit-learn` `Pandas` `Matplotlib`
 
 ---
 
@@ -44,15 +43,8 @@ Chatbot em Python que interpreta perguntas em linguagem natural (Regex) sobre da
 | **Backend & APIs** | Python, Flask, FastAPI, APIs REST, Webhooks, Postman |
 | **IA Generativa** | RAG, LangChain, FAISS, embeddings, Gemini API, GPT-4o, Streamlit |
 | **Bancos de dados** | PostgreSQL, MySQL, SQL Server, CosmosDB |
-| **Cloud & ferramentas** | Azure ML, Render, Docker, n8n, Git/GitHub |
+| **Cloud & ferramentas** | Render, Azure ML, Docker, n8n, Git/GitHub |
 | **Dados & BI** | Pandas, scikit-learn, MLflow, Power BI (DAX) |
-
----
-
-## Estatísticas do GitHub  
-
-![Dayane GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayanebiaerafa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanebiaerafa&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
@@ -60,4 +52,4 @@ Chatbot em Python que interpreta perguntas em linguagem natural (Regex) sobre da
 
 Aberta a oportunidades como **Desenvolvedora Python / Backend Júnior** e em **IA e automação**.
 
-📩 [LinkedIn](https://www.linkedin.com/in/dayaneteodoro/)
+📩 [LinkedIn](https://www.linkedin.com/in/dayaneteodoro/) · 📧 dayaneteodorob@outlook.com
